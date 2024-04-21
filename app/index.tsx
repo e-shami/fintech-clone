@@ -4,7 +4,7 @@ import React from "react";
 const Page = () => {
   return (
     <View style={styles.container}>
-      <Text>this is index page</Text>
+      <Text>this is index page, hello world</Text>
     </View>
   );
 };
